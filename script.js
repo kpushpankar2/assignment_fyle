@@ -232,7 +232,7 @@ const contentArray = [
         description: 'Set to launch on the manufacturer\'s new A330neo aircraft in 2017, it\'s offering lots of'
     },
     {
-        imagePath: 'Assets/images/image.png',
+        imagePath: 'Assets/icons/image.png',
         title: 'Better Strategy & Quality',
         description: 'Set to launch on the manufacturer\'s new A330neo aircraft in 2017, it\'s offering lots of'
     },
