@@ -24,6 +24,11 @@
     flex-wrap: wrap;
 }
 
+/* .col-2 {
+    flex: 0 0 auto;
+    width: 84.666667%;
+} */
+
 
 .home-col-1 {
     flex-basis: 50%;
